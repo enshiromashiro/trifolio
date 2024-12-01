@@ -6,3 +6,5 @@ edition = "2021"
 description = "A static site generator"
 
 [dependencies]
+comrak = "0.31"
+tera = "1.20.0"
