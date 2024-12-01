@@ -1,0 +1,8 @@
+[package]
+name = "trifolio"
+version = "0.1.0"
+authors = ["enshiromashiro"]
+edition = "2021"
+description = "A static site generator"
+
+[dependencies]
