@@ -1,0 +1,16 @@
+title = "my website"
+
+[metadata]
+authors = ["my name"]
+description = "a website for example using trifolio"
+
+[options]
+outdir = "./public"
+image_file = true
+ignores = [] # glob pattern or exact filename
+
+
+[structure]
+
+
+[templates]
